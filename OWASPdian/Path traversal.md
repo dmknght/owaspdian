@@ -10,4 +10,4 @@ Attacker can control file path
 - [[Arbitrary file delete]]
 - [[File Inclusion]]
 
-#Server #FileHandling
+#Server #FileHandling #ExecuteMaliciousFile #WriteMaliciousFiles 
