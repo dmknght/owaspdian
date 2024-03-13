@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server side/File handling/Arbitrary file read.md",
+                "file": "Path traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "f3795ce6e19dc14a",
+        "id": "f871f95dacb39e60",
         "type": "tabs",
         "children": [
           {
-            "id": "40415329c888fb10",
+            "id": "193cf8a362eccea4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -57,6 +57,20 @@
             }
           },
           {
+            "id": "f9735c3923fad9bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8e116471ce4a8b5",
+        "type": "tabs",
+        "children": [
+          {
             "id": "39446c4a02d087a4",
             "type": "leaf",
             "state": {
@@ -69,14 +83,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "f9735c3923fad9bd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -99,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Path traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Path traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Path traversal.md"
+              }
             }
           }
         ]
@@ -156,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40415329c888fb10",
+  "active": "d84f5d38ddb919db",
   "lastOpenFiles": [
-    "Server side/File handling/Arbitrary file read.md",
-    "Server side/Path traversal.md",
-    "Server side/File handling",
+    "Path traversal.md",
+    "File handling/Arbitrary file delete.md",
+    "File handling/Arbitrary file read.md",
+    "File handling/Arbitrary file write.md",
+    "File handling",
     "Untitled",
     "Welcome.md",
     "Server side"
