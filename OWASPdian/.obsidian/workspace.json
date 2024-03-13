@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93afadb0245468c8",
+            "id": "d42f3ae15d5d0ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File handling/File Inclusion.md",
+                "file": "Path traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "f871f95dacb39e60",
+        "id": "41600cb456a63021",
         "type": "tabs",
         "children": [
           {
-            "id": "193cf8a362eccea4",
+            "id": "f7f4747e630026ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -162,12 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193cf8a362eccea4",
+  "active": "f7f4747e630026ca",
   "lastOpenFiles": [
-    "File handling/File Inclusion.md",
-    "File handling/Arbitrary file write.md",
     "Path traversal.md",
-    "Untitled.md",
+    "File handling/Zip Slip.md",
+    "Symlink.md",
+    "File handling/Arbitrary file write.md",
+    "File handling/File stream inclusion.md",
+    "File handling/Remote file inclusion.md",
+    "File handling/File Inclusion.md",
+    "File handling/Local file inclusion.md",
     "File handling/Arbitrary file delete.md",
     "File handling/Arbitrary file read.md",
     "File handling",
