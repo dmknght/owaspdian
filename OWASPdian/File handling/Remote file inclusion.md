@@ -8,3 +8,6 @@
 ## Test
 
 ## Prevent
+
+## Tags
+#ExecuteMaliciousFile

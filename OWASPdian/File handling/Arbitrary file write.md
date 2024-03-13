@@ -11,3 +11,6 @@
 ## Variants
 - [[Zip Slip]]
 ## CVE
+
+## Tags
+#WriteMaliciousFiles

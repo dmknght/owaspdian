@@ -11,3 +11,6 @@
 ## Test
 
 ## Prevent
+
+## Tags
+#ExecuteMaliciousFile
