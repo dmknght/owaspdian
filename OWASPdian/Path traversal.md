@@ -8,6 +8,6 @@ Attacker can control file path
 - [[Arbitrary file read]]
 - [[Arbitrary file write]]
 - [[Arbitrary file delete]]
-- RCE via [[File Inclusion]]
+- [[File Inclusion]]
 
 #Server #FileHandling
